@@ -6,4 +6,4 @@ Inputfile.csv-containing data where missing values have to be inserted
 
 Example of usage: python missing.py sample.csv
 
-Output: Missing vales are replaced and stored in new file: output.csv"
+Output: Missing vales are replaced and stored in new file: output.csv
